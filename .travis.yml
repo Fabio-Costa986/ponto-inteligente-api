@@ -1,0 +1,4 @@
+langhage: java
+jdk:
+  -oraclejdk11
+  
